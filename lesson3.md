@@ -8,4 +8,4 @@ Hellow
 
 второе добавление. выучили команды:
 
-git push? git pull
+git push, git pull
